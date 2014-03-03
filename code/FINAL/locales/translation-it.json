@@ -15,34 +15,34 @@
 		"fund": {
 			"title": "GRAZIE PER GIOCARE A QUESTA DEMO!",
 			"staytuned": [
-				"Be excited. This wasn't even a tenth of what the full game will be!",
+				"Sii eccitato. Questo non e` nemmeno un decimo di cio` che  sara` il gioco completo!",
 				"On the downside... this wasn't even a tenth of what the full game will be.",
 				"We've got a long way to go, and we need your help."
 			],
 			"backthisgame": "back this game",
 			"whycrowdfunding": [
-				"Why crowdfunding? Well, this game is open source and uncopyrighted.",
+				"Perche' il crowdfunding? Beh, questo gioco e` open source non-protetto da copyright.",
 				"We're built for the public, and backed by the public!",
 				"And I know this is kind of ironic, being a satire of social media and all, but..."
 			],
-			"thanksdissident": "Thanks again, you dissident, you!"
+			"thanksdissident": "Grazie mille, dissidente, a te!"
 		},
 		"uncopyright": {
-			"title": "NOTHING TO HIDE HAS NOTHING TO HIDE",
+			"title": "NULLA DA NASCONDERE HA NULLA DA NASCONDERE",
 			"linkdescription": [
-							"We're",
+							"Siamo",
 							"<a href='%s' target='_blank'>open source</a>,",
-							"<a href='%s' target='_blank'>openly designed</a>,",
-							"and with your help,",
-							"<a href='%s' target='_blank'>openly funded</a>.",
-							"But most of all, uncopyrighted. That's right -",
-							"<a href='%s' target='_blank'>Zero Rights Reserved</a>."
+							"<a href='%s' target='_blank'>disegnati apertamente</a>",
+							"e, con il tuo aiuto,",
+							"<a href='%s' target='_blank'>apertamente sostenuti</a>.",
+							"Ma soprattutto, sotto non-copyright. Si` -",
+							"<a href='%s' target='_blank'>nessun diritto riservato</a>."
 			],
-			"youarewelcometo": "You're totally welcome to:",
-			"piratethisgame": "- \"Pirate\" this game.",
-			"recordandmonetize": "- Record and monetize Let's Plays.",
+			"youarewelcometo": "Sei invitato a:",
+			"piratethisgame": "- \"piratare\" questo gioco.",
+			"recordandmonetize": "- Registra e monetizza Let's Plays.",
 			"rehostthisgame": "- Re-host this game on your website.",
-			"useartmusiccode": "- Use the art/music/code in your own projects.",
+			"useartmusiccode": "- Usare la grafica/musica/codice per i tuoi progetti personali.",
 			"makeamod": [
 				"- Make a mod where the main character is replaced with Princess Luna from the",
 				"hit cartoon show, My Little Pony: Friendship Is Magic.",
