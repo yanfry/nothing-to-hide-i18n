@@ -25,66 +25,65 @@
 				"We're built for the public, and backed by the public!",
 				"And I know this is kind of ironic, being a satire of social media and all, but..."
 			],
-			"thanksdissident": "Grazie mille, dissidente, a te!"
+			"thanksdissident": "Grazie mille, dissidente!"
 		},
 		"uncopyright": {
 			"title": "NULLA DA NASCONDERE HA NULLA DA NASCONDERE",
 			"linkdescription": [
 							"Siamo",
 							"<a href='%s' target='_blank'>open source</a>,",
-							"<a href='%s' target='_blank'>disegnati apertamente</a>",
+							"<a href='%s' target='_blank'>progettati apertamente</a>",
 							"e, con il tuo aiuto,",
-							"<a href='%s' target='_blank'>apertamente sostenuti</a>.",
-							"Ma soprattutto, sotto non-copyright. Si` -",
+							"<a href='%s' target='_blank'>sostenuti apertamente</a>.",
+							"Ma soprattutto, sotto senza-copyright. Si` -",
 							"<a href='%s' target='_blank'>nessun diritto riservato</a>."
 			],
 			"youarewelcometo": "Sei invitato a:",
 			"piratethisgame": "- \"piratare\" questo gioco.",
-			"recordandmonetize": "- Registra e monetizza Let's Plays.",
-			"rehostthisgame": "- Re-host this game on your website.",
-			"useartmusiccode": "- Usare la grafica/musica/codice per i tuoi progetti personali.",
+			"recordandmonetize": "- Fai il record e monetizza Giochiamo.",
+			"rehostthisgame": "- Ospita questo gioco sul tuo sito web.",
+			"useartmusiccode": "- Usa grafica/musica/codice per i tuoi progetti personali.",
 			"makeamod": [
-				"- Make a mod where the main character is replaced with Princess Luna from the",
-				"hit cartoon show, My Little Pony: Friendship Is Magic.",
-				"Well, actually, you'll probably get a cease and desist from Hasbro for that.",
-				"But not from me."
+				"- Crea una mod doce il personaggio principale è sostituito dalla Principessa Luna del",
+				"cartone animato più famoso, My Little Pony: L'amicizia è Magica.",
+				"Beh, in realtà, probabilmente otterrete un "cessare e desistere" dalla Hasbro per questo.",
+				"Ma non da me."
 			],
-			"givinguppower": "By giving up \"power\" over our art, our art can have more power."
-		},
+			"givinguppower": "Rinunciando al \"potere\" sulla nostra arte, la nostra artè potrà avere più potere."
 		"credits": {
-			"withthehelp": "WITH THE HELP OF HUNDREDS"
+			"withthehelp": "CON L'AIUTO DI CENTINAIA"
 		}
 		
 	},
 	"command": {
-		"backtomainmenu": "BACK TO MAIN MENU",
-		"resumegame": "RESUME GAME",
-		"resetlevel": "RESET LEVEL",
-		"pause": "PAUSE",
-		"skiplevel": "SKIP LEVEL"
+		"backtomainmenu": "TORNA AL MENU PRINCIPALE",
+		"resumegame": "RIPRISLTA IL GIOCO",
+		"resetlevel": "RESETTA IL LIVELLO",
+		"pause": "PAUSA",
+		"skiplevel": "SALTA IL LIVELLO"
 	},
 	"game": {
 		"general":{ 
-			"panopticonpaused": "PANOPTICON PAUSED",
-			"levelselect": "Level Select:",
+			"panopticonpaused": "PAUSA PANOPTICON",
+			"levelselect": "Level Selezione Livello:",
 			"intro": "INTRO",
-			"ending": "ENDING",
-			"sharegame": "Share Game:"
+			"ending": "FINALE",
+			"sharegame": "Comdividi il Gioco:"
 		},
 		"thewall":{
-			"posted": "posted",
-			"justnow": "just now",
-			"minutesago": "one minute ago",
-			"minutesago_plural": "__count__  minutes ago",
-			"secondsago": "one second ago",
-			"secondsago_plural": "__count__  seconds ago"
+			"posted": "postato",
+			"justnow": "ora",
+			"minutesago": "un minuto fa",
+			"minutesago_plural": "__count__  minuti fa",
+			"secondsago": "un secondo fa",
+			"secondsago_plural": "__count__  secondi fa"
 		}
 	},
 	"character":{
 		"poppy": "Poppy",
 		"poppygardner": "Poppy Gardner",
 		"georgegardner": "George Gardner",
-		"nobody": "Nobody"
+		"nobody": "Nessuno"
 	},
 	"cutscene":{
 		"intro":[
