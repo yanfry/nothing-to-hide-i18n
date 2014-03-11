@@ -58,7 +58,7 @@
 	},
 	"command": {
 		"backtomainmenu": "BACK TO MAIN MENU",
-		"resumegame": "RESUME GAME",
+		"resumegame": "RIPRISTINA IL GIOCO",
 		"resetlevel": "RESET LEVEL",
 		"pause": "PAUSE",
 		"skiplevel": "SKIP LEVEL"
@@ -89,79 +89,79 @@
 	"cutscene":{
 		"intro":[
 				"Poppy?",
-				"Hey sweetie. Please don't be sad.",
-				"It's really hurting my popularity ranking.",
-				"The first un-secret ballot election is coming up. It's very important to Daddy's career, so I need you to post more happy pictures of yourself to The Wall. At least 400 per day, okay?",
-				"Please, Poppy? I don't want the voters to think I'm a bad parent.",
-				"Well, goodnight! <span>#DaddyDaughterMoment</span>",
-				"I... I have to get out of here...",
-				"Dad will be better off without me. His Popularity Metrics&trade;, too."
+				"Hey tesoro. Ti prego non essere triste.",
+				"E' davvero scarsa la mia classifica di popolarità.",
+				"La prima scheda elettorale non segreta sta arrivando. E 'molto importante per la carriera di papà, quindi ho la necessità di postare delle vostre immagini più felici sul Muro. Almeno 400 al giorno, va bene?",
+				"Per favore, Poppy? Non voglio che gli elettori pensino che sono un cattivo genitore.",
+				"Bene, buona notte! <span>#MomentiPadreFiglia</span>",
+				"Io... Io devo uscire da qui...",
+				"Papa sarà meglio che tu esca senza di me. Il suo livello di Popolarità commerciale;, anche."
 		],
 		"end":[
-			"please don't be dead oh god oh god oh god oh god oh god",
+			"per favore non addormentarti Oh Dio oh Dio oh Dio oh Dio oh Dio",
 			"Okay. Okay okay. Idea.",
-			"Sometimes Daddy wakes me up like this. Maybe this will work...",
-			"<span>#DaddyDaughterMoment</span>",
-			"Ow! Pain on the face! You...",
-			"i'm sorry",
-			"...saved my life! Don't apologize, yo!",
-			"i'm sorry for being sorry",
-			"Hold up, are we on The Wall?...",
-			"\"Poppy Gardner posted 1 minute ago. Sometimes Daddy wakes me up like this. Maybe this will work...\"",
-			"Oh. Oh wow. Minister Gardner does that to his own... wow.",
-			"<i>Wellllllllll</i> if it makes you feel better, your dad's psychologically and physically abusive to the rest of the nation, too.",
-			"\"Watch what you say & hear & watch & <i>think.\"</i><br>When we got no place to hide, we got to hide our true selves. ",
-			"I can help you escape him.",
-			"In fact, I got an app for that!",
-			"Exploit! Made it myself. Just tap this screen here, and you'll be erased from The Wall. You'll be a Nobody, just like me.",
-			"Stop acting for the camera. Start being yourself."
+			"A volte papà mi sveglia così. Forse questo funzionerà ...",
+			"<span>#MomentiPapaFiglia</span>",
+			"Ow! Dolore al viso! Tu...",
+			"scusa",
+			"...mi hai salvato la vita! Non scusarti, yo!",
+			"mi spiace di essere dispiaciuto",
+			"Resisti, siamo sul Muro?...",
+			"\"Poppy Gardner ha postato un minuto fa. A volte papà mi sveglia così. Forse questo funzionerà...\"",
+			"Oh. Oh wow. Il Ministro Gardner l'ha fatto da solo... wow.",
+			"<i>Beeeene</i> se ti fa sentire meglio, anche la violenza psicologica e fisica di tuo padre al resto della nazione.",
+			"\"Guarda cosa dici & senti & vedi & <i>pensi.\"</i><br>Quando non abbiamo posto per nasconderci, noscondiamo la nostra vera essenza. ",
+			"Posso aiutarti a scappare da tutto questo.",
+			"Infatti, ho un app per farlo!",
+			"Exploit! L'ho fatto da solo. Basta toccare questa schermata e sarai cancellato dal Muro. Sarai un signor Nessuno, come lo sono io.",
+			"Smetti di agire per la telecamera. Inizia ad essere te stesso."
 		]
 	},
 	"dialogue": {
-		"postedjustnow": "posted just now",
+		"postedjustnow": "postato ora",
 		"level": {
 			"intro": {
-				"nobodyNeedsMe":"Nobody needs me...",
-				"runningAway": "Guess I'm running away to Canada, then."
+				"nobodyNeedsMe":"Nessuno ha bisogno di me...",
+				"runningAway": "Presumo di scappare dal Canada, quindi."
 			},
 			"pickup": {
-				"lookMySmile": "Oh… there's Daddy's campaign post. Look at my smile. :)",
-				"disciplinedToSmile": "He disciplined me when my smile didn't look genuine enough. :)"
+				"lookMySmile": "Oh… c'è un post della campagna di Papa. Guarda il mio smile. :)",
+				"disciplinedToSmile": "Mi ha punito quando il mio sorriso non sembrava abbastanza genuino :)"
 			},
 			"big_puzzle": {
-				"iWonder": "I wonder... if these laws against upsetting people... upset people?"
+				"iWonder": "Mi domando... se queste leggi contro le persone turbate... turbino le persone?"
 			},
 			"conveyor": {
-				"myOwnWatchman": "I wonder... if I'm my own watchman... am I hiding from myself?"
+				"myOwnWatchman": "Mi domando... se sono il guardiano di me stesso... mi nascondo da me stesso?"
 			},
 			"conveyor_2": {
-				"whyQuestionMarks": "I wonder... why I'm using so many ellipses and question marks?",
-				"havingAPrivateThought": "I think... this is what having a private thought feels like. Feels weird."
+				"whyQuestionMarks": "Mi chiedo... perchè sto usando tante elissi e punti interrogativi?",
+				"havingAPrivateThought": "Penso... questo è come si sente un pensiero privato. Si sente strano."
 			},
 			"power": {
-				"whatWasNoise": "What... what was that noise?",
-				"looksUncomfortable": "Oh my... that looks uncomfortable."
+				"whatWasNoise": "Cosa... cos'era quel rumore?",
+				"looksUncomfortable": "Oh mio dio... sembra un disagio."
 			},
 			"power_puzzle": {
-				"poorNobodyOnlyIEye" : "Poor 'Nobody'. I think he picked up the only iEye that was looking at him.",
-				"neverDoneThat" : "Glad I've never done that."
+				"poorNobodyOnlyIEye" : "Povero 'Nessuno'. Penso che tu abbia preso l'unico iEye che lo stava cercando.",
+				"neverDoneThat" : "Fortunatamente io non l'ho mai fatto."
 			},
 			"nobody_needs_you": {
-				"onceInMyLife": "For once in my life... I don't care how others will judge me! I... I have to help!",
-				"nobodyNeedsMe": "'Nobody' needs me!"
+				"onceInMyLife": "Per una volta nella mia vita... Non sono preoccupato di come gli altri mi giudicheranno! Io... desidero aiutare!",
+				"nobodyNeedsMe": "'Nessuno' ha bisogno di me!"
 			}
 		}
 	},
 	"images": {
 		"general":{
 			"controls": {
-				"scrolldown": "SCROLL DOWN",
+				"scrolldown": "SCORRI IN BASSO",
 				"mouse": "¬MOUSE¬",
-				"keys": "¬¬KEYS¬¬"
+				"keys": "¬¬CHIAVI¬¬"
 			},
-			"or": "¬OR¬",
-			"tweet": "TWEET",
-			"share": "SHARE"
+			"or": "¬O¬",
+			"tweet": "TWITTA",
+			"share": "CONDIVIDI"
 			
 		},
 		"propaganda": {
